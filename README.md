@@ -37,5 +37,5 @@
 ## ```$ curl http://contact.me ```
 
 - 📬 You can send me an Email: [ogdalvezz@gmail.com](mailto:ogdalvezz@gmail.com)
-- 🐦 Here is my Twitter [Luxanna_Dev](https://twitter.com/ogdalvez)
+- 🐦 Here is my Twitter [Ogdalvezz](https://twitter.com/ogdalvez)
 - 🖤 What about Discord? [@ogdalvezz](https://discord.com/invite/realplug)
